@@ -130,22 +130,22 @@
       <DependentUpon>styles.css</DependentUpon>
     </Content>
     <Content Include="App_Code\Helpers.cshtml" />
-    <None Include="Config\DashboardSettings.example.json" />
-    <None Include="Config\ElasticSettings.example.json" />
-    <None Include="Config\ExceptionsSettings.example.json" />
-    <None Include="Config\HAProxySettings.example.json" />
-    <None Include="Config\RedisSettings.example.json" />
-    <Content Include="Config\SecuritySettings.config.example" />
-    <None Include="Config\SQLSettings.example.json" />
+    <None Include="Config\DashboardSettings.json" />
+    <None Include="Config\ElasticSettings.json" />
+    <None Include="Config\ExceptionsSettings.json" />
+    <None Include="Config\HAProxySettings.json" />
+    <None Include="Config\RedisSettings.json" />
+    <None Include="Config\SecuritySettings.config" />
+    <None Include="Config\SQLSettings.json" />
     <Content Include="Content\img\logo\logo.eps" />
-    <None Include="Config\JiraSettings.example.json" />
+    <None Include="Config\JiraSettings.json" />
     <Content Include="App_Code\Gauges.cshtml" />
     <None Include="compilerconfig.json" />
     <Content Include="compilerconfig.json.defaults">
       <DependentUpon>compilerconfig.json</DependentUpon>
     </Content>
-    <None Include="Config\CloudFlareSettings.example.json" />
-    <None Include="Config\PagerDutySettings.example.json" />
+    <None Include="Config\CloudFlareSettings.json" />
+    <None Include="Config\PagerDutySettings.json" />
     <Content Include="Content\bootstrap\less\.csscomb.json" />
     <Content Include="Content\bootstrap\less\.csslintrc" />
     <Content Include="Content\bootstrap\less\alerts.less" />
